@@ -1,0 +1,66 @@
+﻿  ap2.cpp
+E:\ap2\ap2\ap2.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\ap2\ap2\clsPerson.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ap2.cpp')
+  
+E:\ap2\ap2\clsString.h(43,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ap2.cpp')
+  
+E:\ap2\ap2\clsString.h(73,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ap2.cpp')
+  
+E:\ap2\ap2\clsString.h(116,19): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ap2.cpp')
+  
+E:\ap2\ap2\clsString.h(121,23): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ap2.cpp')
+  
+E:\ap2\ap2\clsString.h(212,20): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ap2.cpp')
+  
+E:\ap2\ap2\clsString.h(345,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ap2.cpp')
+  
+E:\ap2\ap2\clsDate.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ap2.cpp')
+  
+E:\ap2\ap2\clsUtil.h(64,9): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'ap2.cpp')
+  
+E:\ap2\ap2\clsUser.h(188,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'ap2.cpp')
+  E:\ap2\ap2\clsUser.h(23,12):
+  see declaration of 'clsUser::stLoginRegisterRecord'
+  
+E:\ap2\ap2\clsBankClient.h(204,12): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'ap2.cpp')
+  E:\ap2\ap2\clsBankClient.h(148,12):
+  see declaration of 'clsBankClient::stTransferLogRecord'
+  
+E:\ap2\ap2\clsBankClient.h(27,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ap2.cpp')
+  
+E:\ap2\ap2\clsBankClient.h(159,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ap2.cpp')
+  
+E:\ap2\ap2\clsBankClient.h(160,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ap2.cpp')
+  
+E:\ap2\ap2\clsBankClient.h(161,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ap2.cpp')
+  
+E:\ap2\ap2\clsBankClient.h(422,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ap2.cpp')
+  
+E:\ap2\ap2\clsBankClient.h(434,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ap2.cpp')
+  
+E:\ap2\ap2\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'ap2.cpp')
+  
+E:\ap2\ap2\clsCurrency.h(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ap2.cpp')
+  
+E:\ap2\ap2\clsBankClient.h(378,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+E:\ap2\ap2\clsUser.h(345,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  ap2.vcxproj -> E:\ap2\x64\Debug\ap2.exe
